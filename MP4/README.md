@@ -23,8 +23,10 @@ Approximates the integral of a function using discrete data points. Methods cove
   Quadrature Rules: Techniques for approximating definite integrals by evaluating the function at specific points.
   
   Newton-Cotes Formulas: A family of quadrature rules that use equally spaced points for integration, including methods like the trapezoidal rule and Simpson’s rule.
+  
   Gaussian Quadrature: A highly accurate integration method that uses optimally chosen points and weights to approximate the integral.
 
 ## Numerical Solutions to Ordinary Differential Equations (ODEs)
 Solving ordinary differential equations (ODEs) using numerical methods, focusing on:
+
 Runge-Kutta Methods (4th and 3rd order): Popular iterative methods used for solving ODEs with high accuracy by approximating solutions at intermediate points within each step.
