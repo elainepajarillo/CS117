@@ -1,4 +1,4 @@
-# Numerical Analysis Linear and Nonlinear Systems
+# Numerical Analysis of Linear and Nonlinear Systems
 Techniques that are used to attempt to find approximate solutions of problems rather than the exact ones.
 We need approximations because we either cannot solve the procedure analytically or because the analytical method is intractable 
 (an example is solving a set of a thousand simultaneous linear equations for a thousand unknowns).
