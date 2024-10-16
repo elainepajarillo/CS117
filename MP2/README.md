@@ -9,14 +9,19 @@ Root Finding Methods for both Scalar and Polynomial Functions
 
 ## Scalar Root Finding Methods: 
 Newton Raphson
+
 Newton Raphson Inexact
+
 Steffensen
+
 Fixpoint
 
 ## Polynomial Root Finding Methods:   
 Horner Method
+
 Newton-Horner Method
 
-### some details
-Root finding methods are algorithm for finding zeroes, also called "roots", of continuous functions. Can be used to solve any equation of continuous functions. 
+## some details
+Root finding methods are algorithm for finding zeroes, also called "roots", of continuous functions.
+Can be used to solve any equation of continuous functions. 
 However, most root-finding algorithms do not guarantee that they will find all roots of a function, and if such an algorithm does not find any root, that does not necessarily mean that no root exists.
